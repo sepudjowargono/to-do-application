@@ -1,7 +1,7 @@
 def show_welcome():
-    print("\n ========================== ") 
+    print("\n======================== ") 
     print("Welcome to the To-Do App!")
-    print(" ========================== ")
+    print("======================== ")
 
 def show_menu(): # Displays the main menu options
     print("\nMAIN MENU:")
